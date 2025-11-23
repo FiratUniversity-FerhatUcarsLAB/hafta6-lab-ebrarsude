@@ -1,5 +1,8 @@
 Ad soyad: Ebrar Sude Yıldırım
 Öğrenci no:250541104
+Proje: Sinema bilet
+Tarih:23.11.2025
+    
 import java.util.Scanner;
 
 public class SinemaBileti {
@@ -162,3 +165,4 @@ public class SinemaBileti {
         input.close();
     }
 }
+
