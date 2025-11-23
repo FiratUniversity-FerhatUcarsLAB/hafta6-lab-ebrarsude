@@ -1,5 +1,7 @@
 Ad soyad: Ebrar Sude Yıldırım
 Öğrenci no:250541104
+Proje: Not sistemi
+Tarih:23.11.2025
 
 import java.util.Scanner;
 
@@ -82,3 +84,4 @@ public class NotDegerlendirme {
         input.close();
     }
 }
+
