@@ -1,5 +1,7 @@
 Ad soyad:Ebrar Sude Yıldırım
 Öğrenci no:250541104
+Proje: Restoran sipariş
+Tarih:23.11.2025
 
   import java.util.Scanner;
 
@@ -175,3 +177,4 @@ public class SiparisSistemi {
         input.close();
     }
 }
+
